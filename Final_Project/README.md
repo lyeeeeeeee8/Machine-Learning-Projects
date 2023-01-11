@@ -31,7 +31,8 @@ This code will generate:
     - model1.pkl
     - model2.pkl
     - model3.pkl
-> Please also download the *catboost_info* and *kuma_utils* directory
+> Please also download the *catboost_info* and *kuma_utils* directory <br>
+
 Training process:
 - Train three models including:
     - Logistic regression
