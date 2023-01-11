@@ -31,7 +31,7 @@ This code will generate:
     - model1.pkl
     - model2.pkl
     - model3.pkl
-
+> Please also download the *catboost_info* and *kuma_utils* directory
 Training process:
 - Train three models including:
     - Logistic regression
@@ -73,4 +73,8 @@ Our model achieves the following performance on :
 | Model name         | Private Score  | Public Score |
 | ------------------ |---------------- | -------------- |
 | My  model   |     0.59112         |      0.59046       |
+
+---
+## Memo
+I've tried another approach by using keras neural network. However, the performance wasn't good. I've also put the code in *keras_method* directory.
  
